@@ -9,3 +9,8 @@ print(a)
 
 print(" Now we want to print some others  line here: ")
 print(234)
+
+
+
+#after the insertaion
+print(" Hi! This is me wiith new commit")
